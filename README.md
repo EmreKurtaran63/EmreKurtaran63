@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Sosyal Medya & Bağlantılar (Minimal Rozetler) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=f0883e)](https://www.linkedin.com/in/%20emre-kurtaran)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=f0883e)](https://github.com/EmreKurtaran63)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=f0883e)](www.linkedin.com/in/emre-kurtaran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=f0883e)](https://neseli.gamer.gd/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-111?style=for-the-badge&logo=itch.io&logoColor=f0883e)](https://emrekurtaran.itch.io/)
 
 </div>
@@ -38,7 +38,7 @@
 </div>
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">🎮 Mini Dragon Adventure</h3>
