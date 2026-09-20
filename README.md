@@ -19,18 +19,10 @@
 
 ---
 <div align="center">
-<h3>### 🛠️ Teknolojiler & Araçlar</h3>
+<h3> 🛠️ Teknolojiler & Araçlar</h3>
 </div>
 <br>
 
-<div align="center">
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
-</p>
-
-</div>
-
----
 <div align="center">
 
 <p>
@@ -55,7 +47,7 @@
 ---
 <div align="center">
   <h3>
-    ### 📌 Öne Çıkan Projeler
+     📌 Öne Çıkan Projeler
   </h3>
 </div>
 <br>
@@ -68,6 +60,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Unity-f0883e?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -75,7 +68,9 @@
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JS-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-0096FF?style=for-the-badge&logo=css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
