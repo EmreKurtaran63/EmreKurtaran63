@@ -53,7 +53,7 @@
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       </p>
     </td>
   </tr>
