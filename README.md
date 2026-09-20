@@ -5,24 +5,23 @@
 
 <br/>
 
-### 👋 Merhaba, ben Hacer!
 
 *Oyun geliştirme, C#, Unity ve modern web teknolojileri üzerine çalışan bir yazılımcıyım.*
 
 <br/>
 
 <!-- Sosyal Medya & Bağlantılar (Minimal Rozetler) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=f0883e)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=f0883e)](https://github.com)
-[![Itch.io](https://img.shields.io/badge/Itch.io-111?style=for-the-badge&logo=itch.io&logoColor=f0883e)](https://itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=f0883e)](https://www.linkedin.com/in/%20emre-kurtaran)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=f0883e)](https://github.com/EmreKurtaran63)
+[![Itch.io](https://img.shields.io/badge/Itch.io-111?style=for-the-badge&logo=itch.io&logoColor=f0883e)](https://emrekurtaran.itch.io/)
 
 </div>
 
 ---
-
+<div align="center">
 ### 🛠️ Teknolojiler & Araçlar
 
-<div align="center">
+
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
