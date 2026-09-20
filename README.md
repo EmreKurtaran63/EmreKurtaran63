@@ -1,10 +1,79 @@
 <div align="center">
 
-<!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,45:d97706,85:ea580c,100:0d0d0d&height=180&section=header&text=GAME%20DEVELOPER%20%7C%20C%23,%20UNITY,%20C%2B%2B&fontSize=22&fontColor=ffffff&animation=twinkling&stroke=f97316&strokeWidth=2" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=color=0:0d0d0d,45:d97706,85:ea580c,100:0d0d0d&height=180&section=header&text=Neşeli%20Bir%20Developer&fontSize=22&fontColor=00f2fe&animation=twinkling&stroke=8a2be2&strokeWidth=2" width="100%" />
+<!-- Minimalist & Estetik Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f0883e,100:0d1117&height=200&section=header&text=Hacer%20%7C%20Software%20%26%20Game%20Dev&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
 <br/>
+
+### 👋 Merhaba, ben Hacer!
+
+*Oyun geliştirme, C#, Unity ve modern web teknolojileri üzerine çalışan bir yazılımcıyım.*
+
+<br/>
+
+<!-- Sosyal Medya & Bağlantılar (Minimal Rozetler) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=f0883e)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=react&logoColor=f0883e)](https://github.com)
+[![Itch.io](https://img.shields.io/badge/Itch.io-111?style=for-the-badge&logo=itch.io&logoColor=f0883e)](https://itch.io)
+
+</div>
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
+</p>
+
+</div>
+
+---
+
+### 📌 Öne Çıkan Projeler
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎮 Project Alpha</h3>
+      <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 3D mekanik projesi.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-f0883e?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Web Platform</h3>
+      <p align="center">React ve ASP.NET Core mimarisi üzerine kurulu modern web uygulaması.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=github_dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html,css" />
+
+<br/><br/>
+
+<!-- Snake Contribution Grid Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kullaniciadi/kullaniciadi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kullaniciadi/kullaniciadi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kullaniciadi/kullaniciadi/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <!-- C# Code Snippet Profile Card -->
 ```csharp
