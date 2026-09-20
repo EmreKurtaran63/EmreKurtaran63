@@ -18,11 +18,11 @@
 </div>
 
 ---
-<div align="center" font_size="30px">
+<div  style="font-size:5px; align:center">
 ### 🛠️ Teknolojiler & Araçlar
 </div>
 
-<div align="center" margin-top="30px">
+<div align="center" margin="30px">
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
