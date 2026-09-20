@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-<h1>### 🛠️ Teknolojiler & Araçlar</h1>
+<h3>### 🛠️ Teknolojiler & Araçlar</h3>
 </div>
 <br>
 
@@ -32,25 +32,25 @@
 
 ---
 <div align="center">
-  <h1>
+  <h3>
     ### 📌 Öne Çıkan Projeler
-  </h1>
+  </h3>
 </div>
 <br>
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 Project Alpha</h3>
-      <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 3D mekanik projesi.</p>
+      <h3 align="center">🎮 Mini Dragon Adventure</h3>
+      <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 2D platformer projesi.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Unity-f0883e?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Web Platform</h3>
-      <p align="center">React ve ASP.NET Core mimarisi üzerine kurulu modern web uygulaması.</p>
+      <h3 align="center">🌐 Currency Calculator</h3>
+      <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -61,12 +61,12 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+<h3>### 📊 GitHub İstatistikleri</h3>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=github_dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html,css" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmreKurtaran63&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKurtaran63&layout=compact&theme=github_dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html,css" />
 
 <br/><br/>
 
