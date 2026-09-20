@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Minimalist & Estetik Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f0883e,100:0d1117&height=200&section=header&text=Hacer%20%7C%20Software%20%26%20Game%20Dev&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f0883e,100:0d1117&height=200&section=header&text=Hacker%20%7C%20Software%20%26%20Game%20Dev&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -18,11 +18,11 @@
 </div>
 
 ---
-<div align="center" font-size="20px">
+<div align="center" font-size="30px">
 ### 🛠️ Teknolojiler & Araçlar
 </div>
 
-<div align="center" margin-top="10px">
+<div align="center" margin-top="30px">
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
