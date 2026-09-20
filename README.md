@@ -22,7 +22,7 @@
 ### 🛠️ Teknolojiler & Araçlar
 </div>
 
-<div align="center">
+<div align="center" margin-top="10px">
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
