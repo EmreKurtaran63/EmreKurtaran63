@@ -66,7 +66,8 @@
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKurtaran63&layout=compact&theme=dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmreKurtaran63&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKurtaran63&layout=compact&theme=github_dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
 <br/><br/>
 
 <!-- Snake Contribution Grid Animation -->
