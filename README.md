@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Banner Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,45:d97706,85:ea580c,100:0d0d0d&height=180&section=header&text=GAME%20DEVELOPER%20%7C%20C%23,%20UNITY,%20C%2B%2B&fontSize=22&fontColor=ffffff&animation=twinkling&stroke=f97316&strokeWidth=2" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=color=0:0d0d0d,45:d97706,85:ea580c,100:0d0d0d&height=180&section=header&text=Neşeli%20Bir%20Developer&fontSize=22&fontColor=00f2fe&animation=twinkling&stroke=8a2be2&strokeWidth=2" width="100%" />
 
 <br/>
