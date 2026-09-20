@@ -67,6 +67,7 @@
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmreKurtaran63&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKurtaran63&layout=compact&theme=github_dark&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html,css" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmreKurtaran63&show_icons=true&theme=github_dark&title_color=f0883e&icon_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" />
 
 <br/><br/>
 
