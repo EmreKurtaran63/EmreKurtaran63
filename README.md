@@ -18,7 +18,7 @@
 </div>
 
 ---
-<div align="center" font-size="30px">
+<div align="center" font_size="30px">
 ### 🛠️ Teknolojiler & Araçlar
 </div>
 
