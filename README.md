@@ -28,6 +28,7 @@
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-f0883e?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -58,7 +59,7 @@
       <h3 align="center">🎮 Mini Dragon Adventure</h3>
       <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 2D platformer projesi.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Unity-f0883e?style=flat-square&logo=unity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unity-00001A?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
@@ -68,9 +69,9 @@
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-0096FF?style=for-the-badge&logo=css&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-FFA500?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-0096FF?style=flat-square&logo=css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
