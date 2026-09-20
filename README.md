@@ -72,8 +72,11 @@
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmreKurtaran63&show_icons=true&theme=dark&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=00FF66" />
 
 <!-- Kesintisiz En Çok Kullanılan Diller Kartı -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreKurtaran63&layout=compact&theme=dark&title_color=00FF66&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=00FF66&hide=html,css" />
-<br/><br/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=EmreKurtaran63&theme=dark" />
+
+</div>
 
 <!-- Snake Contribution Grid Animation -->
 <picture>
