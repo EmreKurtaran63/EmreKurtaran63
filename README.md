@@ -61,7 +61,10 @@
 
 ---
 
-<h3>### 📊 GitHub İstatistikleri</h3>
+<h3 align="center">
+  ### 📊 GitHub İstatistikleri
+</h3>
+<br>
 
 <div align="center">
 
