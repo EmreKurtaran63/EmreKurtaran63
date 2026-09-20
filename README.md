@@ -18,10 +18,11 @@
 </div>
 
 ---
-<div align="center">
+<div align="center" font-size="20px">
 ### 🛠️ Teknolojiler & Araçlar
+</div>
 
-
+<div align="center">
 
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,react,dotnet,nodejs,vscode,git&theme=dark" />
@@ -30,8 +31,9 @@
 </div>
 
 ---
-
+<div align="center" font-size="20px">
 ### 📌 Öne Çıkan Projeler
+</div>
 
 <table>
   <tr>
