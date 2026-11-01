@@ -65,7 +65,7 @@
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
       <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" >
-        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="70px" height="40px">
+        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="60px" height="40px">
       </a>
     </td>
     <td width="50%" align="center">
@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" >
-        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="70px" height="40px">
+        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="60px" height="40px">
       </a>
   
 </a>
