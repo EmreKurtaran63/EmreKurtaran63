@@ -69,6 +69,19 @@
       </a>
     </td>
     <td width="50%" align="center">
+      <h3 align="center">🌐 E-Commerce</h3>
+      <p align="center">React üzerine kurulu modern E-Ticaret web uygulaması.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-FFA500?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-0096FF?style=flat-square&logo=css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" text-decoration="none">
+        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
+      </a>
+    </td>
+    <td width="50%" align="center">
       <h3 align="center">🌐 Currency Calculator</h3> 
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
@@ -80,8 +93,6 @@
       <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" >
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
-  
-</a>
     </td>
   </tr>
 </table>
