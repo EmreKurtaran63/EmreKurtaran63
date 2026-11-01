@@ -58,7 +58,7 @@
   <tr>
     <td width="50%" align="center">
       <h3 align="center">🎮 Mini Dragon Adventure</h3>
-      <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 2D platformer projesi.</p>
+      <p align="center">Unity ve C# ile geliştirilmiş, fizik odaklı 2D platformer oyunu.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Unity-00001A?style=flat-square&logo=unity&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white" />
@@ -69,6 +69,18 @@
       </a>
     </td>
     <td width="50%" align="center">
+      <h3 align="center">🎮 HD Chrome Dino</h3>
+      <p align="center">Unreal Engine ve Blueprint ile geliştirilmiş, fizik odaklı 3D sonsuz koşu oyunu.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
+      </p>
+      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" text-decoration="none">
+        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
+      </a>
+    </td>
+  </tr>
+  <td width="50%" align="center">
       <h3 align="center">🛍️ E-Commerce</h3>
       <p align="center">React üzerine kurulu modern E-Ticaret web uygulaması.</p>
       <p align="center">
@@ -81,7 +93,6 @@
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
-  </tr>
   <td width="50%" align="center">
       <h3 align="center">💵 Currency Calculator</h3> 
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
