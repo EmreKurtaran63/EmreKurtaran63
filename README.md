@@ -69,7 +69,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3 align="center">🌐 E-Commerce</h3>
+      <h3 align="center"><i class="fa-solid fa-bag-shopping"></i> E-Commerce</h3>
       <p align="center">React üzerine kurulu modern E-Ticaret web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
