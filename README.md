@@ -67,13 +67,15 @@
       <a href="https://github.com/EmreKurtaran63/Currency-Calculator"> git</a>
     </td>
     <td width="50%">
-      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" text-decoration="none"><h3 align="center">🌐 Currency Calculator</h3> </a>
+      <h3 align="center">🌐 Currency Calculator</h3> 
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-FFA500?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-0096FF?style=flat-square&logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/"></a>
+        [![Buton Metni](https://shields.io)](https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/)
       </p>
     </td>
   </tr>
