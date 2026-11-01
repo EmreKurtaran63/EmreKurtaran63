@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
-      <a href="#">c</a>
+      <a href="https://github.com/EmreKurtaran63/Currency-Calculator"> git</a>
     </td>
     <td width="50%">
       <h3 align="center">🌐 Currency Calculator</h3>
