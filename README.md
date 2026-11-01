@@ -76,7 +76,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank">
-        <img src="https://img.shields.io/badge/-darkorange?style=for-the-badge&logo=go&logoColor=white" alt="Buton">
+        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="200px" height="100px">
       </a>
   
 </a>
