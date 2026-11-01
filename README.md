@@ -75,7 +75,9 @@
         <img src="https://img.shields.io/badge/CSS-0096FF?style=flat-square&logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/"></a>
-        [![Proje Sayfası](https://shields.ioncele-007bff?style=for-the-badge)](https://google.com)
+        <a href="https://google.com">
+  <img src="https://shields.ioncele-007bff?style=for-the-badge" alt="Buton">
+</a>
         [![Buton Metni](https://shields.io)](https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/)
       </p>
     </td>
