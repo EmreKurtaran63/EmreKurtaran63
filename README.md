@@ -81,7 +81,8 @@
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
-    <td width="50%" align="center">
+  </tr>
+  <td width="50%" align="center">
       <h3 align="center">🌐 Currency Calculator</h3> 
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
@@ -94,6 +95,8 @@
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
+  <tr>
+    
   </tr>
 </table>
 
