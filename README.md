@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Minimalist & Estetik Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF8C00,100:0d1117&height=200&section=header&text=%20Software%20and%20Game%20Developer&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff8c00,100:0d1117&height=200&section=header&text=%20Software%20and%20Game%20Developer&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
 <br/>
 
