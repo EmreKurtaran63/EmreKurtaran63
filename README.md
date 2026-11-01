@@ -65,7 +65,7 @@
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
       <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" >
-        <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="60px" height="40px">
+        &nbsp;&nbsp;<img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="40px" height="40px">&nbsp;&nbsp;
       </a>
     </td>
     <td width="50%" align="center">
