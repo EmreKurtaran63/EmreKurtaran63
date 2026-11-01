@@ -67,7 +67,7 @@
       <a href="https://github.com/EmreKurtaran63/Currency-Calculator"> git</a>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Currency Calculator</h3>
+      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" text-decoration="none"><h3 align="center">🌐 Currency Calculator</h3> </a>
       <p align="center">React üzerine kurulu modern web uygulaması.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
