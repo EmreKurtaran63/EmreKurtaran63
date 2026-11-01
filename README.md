@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
-      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" text-decoration="none">
+      <a href="https://emrekurtaran.itch.io/mini-dragon-advanture" target="_blank" text-decoration="none">
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
         <img src="https://img.shields.io/badge/Blender-f0883e?style=flat-square&logo=blender&logoColor=white" />
       </p>
-      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" text-decoration="none">
+      <a href="https://emrekurtaran.itch.io/hd-chrome-dinom" target="_blank" text-decoration="none">
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/CSS-0096FF?style=flat-square&logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/Currency/" target="_blank" text-decoration="none">
+      <a href="https://neseli.gamer.gd/Websitelerim/React_Projelerim/E_Commerce/" target="_blank" text-decoration="none">
         <img src="https://img.shields.io/badge/-darkorange?style=flat&logo=go&logoColor=white" alt="Buton" width="50px" height="50px">
       </a>
     </td>
